@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540914193 source:c:\users\£ukasz\documents\wstêp do informatyki\min_max_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

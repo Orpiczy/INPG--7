@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543066159 source:c:\users\£ukasz\documents\wstêp do informatyki\funkcja_kwadratowa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
